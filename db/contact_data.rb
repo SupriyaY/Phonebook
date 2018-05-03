@@ -8,7 +8,7 @@ def get_contact_data
   :work_number => "330-307-4418", 
   :home_number => "239-213-1684"}], 
   'bethsmith' => [{
-    :first_name => "Josh", 
+  :first_name => "Josh", 
   :last_name => "Smith", 
   :cell_number => "740-708-2145", 
   :work_number => "740-708-8283", 

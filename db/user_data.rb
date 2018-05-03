@@ -11,5 +11,5 @@ def get_user_data
           photo_url: 'https://i.imgur.com/9KsoBu7.png',
     }
   }
-  return user_data
+user_data
 end
