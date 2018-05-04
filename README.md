@@ -12,9 +12,9 @@
 ## Resources
 * User Stories Management - [Trello](https://trello.com/b/2ZlYUhhY/vri-phonebook)
 * User Experience Management - Figma
-ERDs were built in order to list the data models and their data types.
+* ERDs were built in order to list the data models and their data types.
 ![ERD](https://github.com/SupriyaY/Phonebook/blob/master/Screen%20Shot%202018-05-02%20at%208.27.18%20PM.png)
-Wireframes were created using Figma to design the prototype of the application.
+* Wireframes were created using Figma to design the prototype of the application.
 ![Wireframes](https://github.com/SupriyaY/Phonebook/blob/master/Screen%20Shot%202018-05-02%20at%208.24.43%20PM.png)
 Sprints: Time Frame May 1 - May 7(due date)
 Day 1: 
