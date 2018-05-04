@@ -1,4 +1,3 @@
-# Variance Reduction International
 
 # Overview
 
@@ -13,24 +12,23 @@
 ## Resources
 * User Stories Management - [Trello](https://trello.com/b/2ZlYUhhY/vri-phonebook)
 * User Experience Management - Figma
-
-
+ERDs were built in order to list the data models and their data types.
+![ERD](https://github.com/SupriyaY/Phonebook/blob/master/Screen%20Shot%202018-05-02%20at%208.27.18%20PM.png)
+Wireframes were created using Figma to design the prototype of the application.
+![Wireframes](https://github.com/SupriyaY/Phonebook/blob/master/Screen%20Shot%202018-05-02%20at%208.24.43%20PM.png)
 Sprints: Time Frame May 1 - May 7(due date)
 Day 1: 
 * Map out data models: Users and Contacts.  Users have contacts in their phonebook.
 * User stories which include frontend and backend routes.  Time management and flow between backend logic and user interface
 * Set up Rails and React servers
-
 Day 2:
 * Let's Code!
-## Rails
+Rails
 * Models, Controllers, Routes 
 * Ability to view JSON object
-
-## React
+React
 * Create Components
 * Show Models - Map through data
-
 Day 3:
 
 
