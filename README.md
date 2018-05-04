@@ -8,6 +8,9 @@
 * PostgreSQL - database
 
 # Resources
+* User Stories Management - Trello
+* User Experience Management - Figma
+
 
 # Planning
 
@@ -19,8 +22,13 @@ Day 1:
 
 Day 2:
 * Let's Code!
-* Models, Controllers, Routes
+## Rails
+* Models, Controllers, Routes 
 * Ability to view JSON object
+
+## React
+* Create Components
+* Show Models - Map through data
 
 Day 3:
 
