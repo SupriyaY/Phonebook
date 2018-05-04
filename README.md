@@ -7,12 +7,13 @@
 * React - Frontend library
 * PostgreSQL - database
 
-# Resources
-* User Stories Management - Trello
-* User Experience Management - Figma
 
 
 # Planning
+## Resources
+* User Stories Management - [Trello](https://trello.com/b/2ZlYUhhY/vri-phonebook)
+* User Experience Management - Figma
+
 
 Sprints: Time Frame May 1 - May 7(due date)
 Day 1: 
