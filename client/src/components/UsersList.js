@@ -21,6 +21,7 @@ top: 0;
  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 5px;
     z-index: 999;
+    text-align: center;
 `;
 
 
@@ -43,22 +44,6 @@ position: relative;
 top: -20px;
 }
 `;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -119,8 +104,8 @@ class UsersList extends Component {
                                                             <UserPicture>
                                                             <div><img src={user.photo_url}/></div>
                                                             </UserPicture>
-                                                            {user.first_name}
-                                                            {user.last_name}
+                                                            <div>{user.first_name}</div>
+                                                            <div>{user.last_name}</div>
                                                             </Link>
                                                         </div>
                                                     </UserCard>
